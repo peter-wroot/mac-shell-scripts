@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# ResetdBpowerampTrial.sh - a simple shell script to re-set dBpoweramp's trial on a Mac.
+# Written by Peter Wroot on the 29th December 2019.
+
 # Clears the terminal window.
 clear
 
